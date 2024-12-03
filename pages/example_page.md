@@ -3,4 +3,4 @@ title: Example page
 ---
 
 This page serves as an example page.
-test1
+test2
